@@ -1,2 +1,2 @@
 # Mini-Football-Program
-Robotics Reinforcement ZJU 2019 fall
+Robotics Intensive Training ZJU 2019 fall
